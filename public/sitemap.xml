@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/firstpost/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/help/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/events/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/history/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/people/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/next/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/lastpost/</loc>
+  </url>
+  
+</urlset>

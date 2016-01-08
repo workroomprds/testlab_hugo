@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The TestLab</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on The TestLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Where can I find you?</title>
+      <link>http://localhost:1313/post/lastpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/lastpost/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ll be at &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s Test&lt;/p&gt;
+
+&lt;p&gt;STARWest – Paul Carvalho&lt;/p&gt;
+
+&lt;p&gt;EuroSTAR – don&amp;rsquo;t know who&lt;/p&gt;
+
+&lt;p&gt;ATD – Bart and James&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Next for this site</title>
+      <link>http://localhost:1313/post/next/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/next/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;From James:&lt;/strong&gt; I&amp;rsquo;ve set up this site because we need one.
+I hope that people who have been involved will update the information here, and change it as they wish.
+This is a temporary note. It&amp;rsquo;ll go when we use the site publicly.  a&lt;/p&gt;
+
+&lt;p&gt;I imagine that the buttons at the top will go to pages for whatever conference is up and running.&lt;/p&gt;
+
+&lt;p&gt;I imagine that we&amp;rsquo;ll make the UI have concertinas for list information so they fold up&lt;/p&gt;
+
+&lt;p&gt;I imagine that we&amp;rsquo;ll put some list information into multiple similar markdown docs&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll need to change everything – text, ordering, colours, technology. But this is a start, and (I hope) a flexible one.
+I know that the history is wrong.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m using the static-site generator &lt;a href=&#34;http://gohugo.io&#34; title=&#34;Hugo :: A fast and modern static website engine&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the source is in markdown&lt;/li&gt;
+&lt;li&gt;the markdown source will be on GitHub so you can change it as you like&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ll pull everything together and re-upload to testlab.site&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Who runs the TestLab?</title>
+      <link>http://localhost:1313/post/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/people/</guid>
+      <description>&lt;p&gt;The following people have run TestLabs&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;James Lyndsay&lt;/li&gt;
+&lt;li&gt;Bart Knaack&lt;/li&gt;
+&lt;li&gt;Martin Jansson&lt;/li&gt;
+&lt;li&gt;Henrik Emilsson&lt;/li&gt;
+&lt;li&gt;Ru Cindrea&lt;/li&gt;
+&lt;li&gt;Ruud Cox&lt;/li&gt;
+&lt;li&gt;Adina Moldovan&lt;/li&gt;
+&lt;li&gt;Kristoffer Anakberg&lt;/li&gt;
+&lt;li&gt;Wade Wachs&lt;/li&gt;
+&lt;li&gt;Paul Carvalho&lt;/li&gt;
+&lt;li&gt;Guna Petrova&lt;/li&gt;
+&lt;li&gt;Teemu Vesela&lt;/li&gt;
+&lt;li&gt;Emma Keavney&lt;/li&gt;
+&lt;li&gt;&amp;hellip; from Redgate?&lt;/li&gt;
+&lt;li&gt;Rich Robinson&lt;/li&gt;
+&lt;li&gt;?Bram Bronenberg&lt;/li&gt;
+&lt;li&gt;?more&lt;/li&gt;
+&lt;li&gt;?you&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following people have taken over and helped&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rob Sabourin&lt;/li&gt;
+&lt;li&gt;Shmuel Gershon&lt;/li&gt;
+&lt;li&gt;Zeger Van Hese&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Plenty of people have run sessions and built conversations and connections in varous TestLabs&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How many TestLabs have there been?</title>
+      <link>http://localhost:1313/post/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/history/</guid>
+      <description>
+
+&lt;p&gt;Missing: Sigist, TestNet, Kristoffer&amp;rsquo;s one, plenty more&lt;/p&gt;
+
+&lt;h1 id=&#34;2009:ede98e4633e239f933cbfd1f4e1b766c&#34;&gt;2009&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;EuroSTAR (Stockholm, James and Bart)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;2010:ede98e4633e239f933cbfd1f4e1b766c&#34;&gt;2010&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;? STAREast (James, Bart)&lt;/li&gt;
+&lt;li&gt;STARWest (James, Bart)&lt;/li&gt;
+&lt;li&gt;EuroSTAR (Copenhagen, James and Bart, Martin and Henrik)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;2011:ede98e4633e239f933cbfd1f4e1b766c&#34;&gt;2011&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;? STAREast&lt;/li&gt;
+&lt;li&gt;? STARWest&lt;/li&gt;
+&lt;li&gt;EuroSTAR (Manchester, Martin and Henrik)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;2012:ede98e4633e239f933cbfd1f4e1b766c&#34;&gt;2012&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;STAREast&lt;/li&gt;
+&lt;li&gt;Let&amp;rsquo;s Test (Martin, James)&lt;/li&gt;
+&lt;li&gt;CAST (James)&lt;/li&gt;
+&lt;li&gt;STARWest (James, Bart)&lt;/li&gt;
+&lt;li&gt;EuroSTAR (Amsterdam, Bart and Martin, Ru and Kristoffer)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;2013:ede98e4633e239f933cbfd1f4e1b766c&#34;&gt;2013&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;STAREast&lt;/li&gt;
+&lt;li&gt;STARWest&lt;/li&gt;
+&lt;li&gt;Let&amp;rsquo;s Test (Martin, James)&lt;/li&gt;
+&lt;li&gt;Let&amp;rsquo;s Test (Rich Robinson)&lt;/li&gt;
+&lt;li&gt;EuroSTAR (Gothenburg, Ru and Kristoffer, Teemu, Ruud and Adina)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;2014:ede98e4633e239f933cbfd1f4e1b766c&#34;&gt;2014&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;STAREast (&lt;em&gt;Paul and Wade?&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;? Let&amp;rsquo;s Test (Ru, James)&lt;/li&gt;
+&lt;li&gt;STARWest&lt;/li&gt;
+&lt;li&gt;EuroSTAR (Dublin, Ruud and Adina, Guna and Emma)&lt;/li&gt;
+&lt;li&gt;Agile Testing Days (&lt;em&gt;Bart?&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;2015:ede98e4633e239f933cbfd1f4e1b766c&#34;&gt;2015&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Let&amp;rsquo;s Test Benelux (&lt;em&gt;James and Bart&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;STAREast (&lt;em&gt;Paul and Wade?&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Let&amp;rsquo;s Test (Ru and Martin)&lt;/li&gt;
+&lt;li&gt;Belgian Testing Days (&lt;em&gt;Ru and Maaret&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;STARWest (&lt;em&gt;Bart and Wade&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;EuroSTAR (&lt;em&gt;Guna and Adina, Sue, Carly and Jyothi&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Agile Testing Days (&lt;em&gt;James and Bart, run with the Anything Build Party&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can you come to our event?</title>
+      <link>http://localhost:1313/post/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/events/</guid>
+      <description>&lt;p&gt;We need places to work.&lt;/p&gt;
+
+&lt;p&gt;If your conference needs a TestLab, we&amp;rsquo;ll help you set one up of your own. We&amp;rsquo;ll also pass the word round if you want an experienced person involved directly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can I help?</title>
+      <link>http://localhost:1313/post/help/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/help/</guid>
+      <description>
+
+&lt;p&gt;Yes, you can.&lt;/p&gt;
+
+&lt;h1 id=&#34;get-involved:980cf86e6c30efa1e296b8548b376abf&#34;&gt;Get Involved&lt;/h1&gt;
+
+&lt;p&gt;We need people to organise, to set up, to greet and involve participants. Contact anyone on the list who is running an event soon. Or get in touch with James or Bart and we&amp;rsquo;ll keep youn in mind.&lt;/p&gt;
+
+&lt;h1 id=&#34;we-ll-test-your-software:980cf86e6c30efa1e296b8548b376abf&#34;&gt;We&amp;rsquo;ll test your Software&lt;/h1&gt;
+
+&lt;p&gt;If you make open-source software, we&amp;rsquo;re always on the hunt for new stuff to test. We hope you&amp;rsquo;ll have a relativly-mature product without obvious bugs that works on a range of devices – but you won&amp;rsquo;t have to meet all those requirements. We&amp;rsquo;ll give you good feedback, and will try to get you into the lab so you can see how testers are testing.&lt;/p&gt;
+
+&lt;h1 id=&#34;present-to-our-participants:980cf86e6c30efa1e296b8548b376abf&#34;&gt;Present to our Participants&lt;/h1&gt;
+
+&lt;p&gt;We try to make the TestLab available to speakers, so that they can get people doing things that they&amp;rsquo;d otherwise be hearing about. We&amp;rsquo;ve taken the TestLab into sessions, and speakers have lead their participants from the session rooms into the TestLab. More commonly, we schedule a hands-on session for speakers to run themselves in the TestLab. We publicise these. Sessions before your lecture can attract people to the lecture. Sessions after can help interested participants to deepen their understanding.&lt;/p&gt;
+
+&lt;h1 id=&#34;lend-us-your-kit:980cf86e6c30efa1e296b8548b376abf&#34;&gt;Lend us your Kit&lt;/h1&gt;
+
+&lt;p&gt;Typically, client devices and networking kit. You&amp;rsquo;ll need to lend it to us for the duration of the event – and you may need to give us the admin passwords so we can install stuff. We&amp;rsquo;ll try not to break it, and you may need to uninstall stuff when you get it back. It&amp;rsquo;s a big ask, though we hjave regular kit donors. We&amp;rsquo;ll get your name on the TestLab somehow.&lt;/p&gt;
+
+&lt;h1 id=&#34;show-off-your-products:980cf86e6c30efa1e296b8548b376abf&#34;&gt;Show off your Products&lt;/h1&gt;
+
+&lt;p&gt;The TestLab is a great place to demonstrate tools and techniques. Some conferences give expo-floor vendors an opportunity to show off their offering in action against TestLab software. Can your products be used outside the booth, against real software? Can your staff build enhance the testing that&amp;rsquo;s going on through the event? It&amp;rsquo;s an acid test, and only the most-confident vendors take us up&amp;hellip; and attendees know that.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is a TestLab?</title>
+      <link>http://localhost:1313/post/firstpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/firstpost/</guid>
+      <description>
+
+&lt;p&gt;It&amp;rsquo;s a space, at a conference, with something to test.&lt;/p&gt;
+
+&lt;p&gt;We try to give you working software, a working environment, and working kit – and we try to keep it working (whatever &amp;ldquo;working&amp;rdquo; might mean) when you test it. We give you help if you&amp;rsquo;re stuck, build conversations and narratives, sort out your network configuration, laugh with you whe you&amp;rsquo;re surprised, work with you when you&amp;rsquo;re digging in. We use real software with real bugs – and also have a bunch of neat testing toys to play with.&lt;/p&gt;
+
+&lt;p&gt;Every TestLab is different, but some people, and some software, are regulars.&lt;/p&gt;
+
+&lt;p&gt;You can find regular TestLabs at &lt;a href=&#34;http://eurostarconferences.com/&#34;&gt;EuroSTAR&lt;/a&gt;, STAREast, STARWest, Agile Testing Days and Let&amp;rsquo;s Test.&lt;/p&gt;
+
+&lt;h1 id=&#34;why:f779394c000b834c435e35a4c53a5ecd&#34;&gt;Why?&lt;/h1&gt;
+
+&lt;p&gt;Because it&amp;rsquo;s good to share skills, and because testers need a target. There&amp;rsquo;s too much talking.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
