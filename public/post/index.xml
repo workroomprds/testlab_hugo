@@ -34,7 +34,7 @@
       <guid>http://localhost:1313/post/next/</guid>
       <description>&lt;p&gt;&lt;strong&gt;From James:&lt;/strong&gt; I&amp;rsquo;ve set up this site because we need one.
 I hope that people who have been involved will update the information here, and change it as they wish.
-This is a temporary note. It&amp;rsquo;ll go when we use the site publicly.  a&lt;/p&gt;
+This is a temporary note. It&amp;rsquo;ll go when we use the site publicly.&lt;/p&gt;
 
 &lt;p&gt;I imagine that the buttons at the top will go to pages for whatever conference is up and running.&lt;/p&gt;
 
@@ -169,6 +169,8 @@ I know that the history is wrong.&lt;/p&gt;
 &lt;li&gt;EuroSTAR (&lt;em&gt;Guna and Adina, Sue, Carly and Jyothi&lt;/em&gt;)&lt;/li&gt;
 &lt;li&gt;Agile Testing Days (&lt;em&gt;James and Bart, run with the Anything Build Party&lt;/em&gt;)&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&amp;ndash; It ¿might? be better if we could use a template for list items?&lt;/p&gt;
 </description>
     </item>
     

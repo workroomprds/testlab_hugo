@@ -50,4 +50,4 @@ Missing: Sigist, TestNet, Kristoffer's one, plenty more
 * EuroSTAR (*Guna and Adina, Sue, Carly and Jyothi*)
 * Agile Testing Days (*James and Bart, run with the Anything Build Party*)
 
-
+-- It ¿might? be better if we could use a template for list items?
