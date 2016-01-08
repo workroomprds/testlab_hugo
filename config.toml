@@ -3,4 +3,4 @@ baseurl = "http://testlab.site/"
 languageCode = "en-us"
 title = "The TestLab"
 [params]
-  description = "Hands-on Testing your Favourite Conference"
+  description = "Getting your Hands Dirty at your Favourite Testing Conference"

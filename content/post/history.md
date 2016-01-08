@@ -1,7 +1,7 @@
 +++
 title = "How many TestLabs have there been?"
 description = "..."
-weight = 4
+weight = 5
 type = "post"
 +++
 

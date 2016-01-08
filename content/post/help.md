@@ -6,9 +6,9 @@ type = "post"
 +++
 
 Yes, you can.
-	
+
 # Get Involved
-We need people to organise, to set up, to greet and involve participants. Contact anyone on the list who is running an event soon. Or get in touch with James or Bart and we'll keep youn in mind.
+We need people to organise, to set up, to greet and involve participants. Contact anyone on the list who is running an event soon. Or get in touch with James or Bart and we'll keep you in mind.
 
 
 # We'll test your Software
@@ -25,4 +25,3 @@ Typically, client devices and networking kit. You'll need to lend it to us for t
 
 # Show off your Products
 The TestLab is a great place to demonstrate tools and techniques. Some conferences give expo-floor vendors an opportunity to show off their offering in action against TestLab software. Can your products be used outside the booth, against real software? Can your staff build enhance the testing that's going on through the event? It's an acid test, and only the most-confident vendors take us up... and attendees know that.
-
