@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The TestLab</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://testlab.site/post/</link>
     <description>Recent content in Posts on The TestLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://testlab.site/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Where can I find you?</title>
-      <link>http://localhost:1313/post/lastpost/</link>
+      <link>http://testlab.site/post/lastpost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/lastpost/</guid>
+      <guid>http://testlab.site/post/lastpost/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ll be at &amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;Let&amp;rsquo;s Test&lt;/p&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>Next for this site</title>
-      <link>http://localhost:1313/post/next/</link>
+      <link>http://testlab.site/post/next/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/next/</guid>
+      <guid>http://testlab.site/post/next/</guid>
       <description>&lt;p&gt;&lt;strong&gt;From James:&lt;/strong&gt; I&amp;rsquo;ve set up this site because we need one.
 I hope that people who have been involved will update the information here, and change it as they wish.
 This is a temporary note. It&amp;rsquo;ll go when we use the site publicly.&lt;/p&gt;
@@ -57,10 +57,10 @@ I know that the history is wrong.&lt;/p&gt;
     
     <item>
       <title>Who runs the TestLab?</title>
-      <link>http://localhost:1313/post/people/</link>
+      <link>http://testlab.site/post/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/people/</guid>
+      <guid>http://testlab.site/post/people/</guid>
       <description>&lt;p&gt;The following people have run TestLabs&lt;/p&gt;
 
 &lt;ul&gt;
@@ -98,10 +98,10 @@ I know that the history is wrong.&lt;/p&gt;
     
     <item>
       <title>How many TestLabs have there been?</title>
-      <link>http://localhost:1313/post/history/</link>
+      <link>http://testlab.site/post/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/history/</guid>
+      <guid>http://testlab.site/post/history/</guid>
       <description>
 
 &lt;p&gt;Missing: Sigist, TestNet, Kristoffer&amp;rsquo;s one, plenty more&lt;/p&gt;
@@ -176,10 +176,10 @@ I know that the history is wrong.&lt;/p&gt;
     
     <item>
       <title>Can you come to our event?</title>
-      <link>http://localhost:1313/post/events/</link>
+      <link>http://testlab.site/post/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/events/</guid>
+      <guid>http://testlab.site/post/events/</guid>
       <description>&lt;p&gt;We need places to work.&lt;/p&gt;
 
 &lt;p&gt;If your conference needs a TestLab, we&amp;rsquo;ll help you set one up of your own. We&amp;rsquo;ll also pass the word round if you want an experienced person involved directly.&lt;/p&gt;
@@ -188,10 +188,10 @@ I know that the history is wrong.&lt;/p&gt;
     
     <item>
       <title>Can I help?</title>
-      <link>http://localhost:1313/post/help/</link>
+      <link>http://testlab.site/post/help/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/help/</guid>
+      <guid>http://testlab.site/post/help/</guid>
       <description>
 
 &lt;p&gt;Yes, you can.&lt;/p&gt;
@@ -220,10 +220,10 @@ I know that the history is wrong.&lt;/p&gt;
     
     <item>
       <title>What is a TestLab?</title>
-      <link>http://localhost:1313/post/firstpost/</link>
+      <link>http://testlab.site/post/firstpost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/firstpost/</guid>
+      <guid>http://testlab.site/post/firstpost/</guid>
       <description>
 
 &lt;p&gt;It&amp;rsquo;s a space, at a conference, with something to test.&lt;/p&gt;
