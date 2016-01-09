@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://testlab.site/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/firstpost/</loc>
+    <loc>http://testlab.site/post/firstpost/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/help/</loc>
+    <loc>http://testlab.site/post/help/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/events/</loc>
+    <loc>http://testlab.site/post/events/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/history/</loc>
+    <loc>http://testlab.site/post/history/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/people/</loc>
+    <loc>http://testlab.site/post/people/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/next/</loc>
+    <loc>http://testlab.site/post/next/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/lastpost/</loc>
+    <loc>http://testlab.site/post/lastpost/</loc>
   </url>
   
 </urlset>
